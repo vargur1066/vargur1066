@@ -1,0 +1,4 @@
+- Hey there, I am someone the PNW
+- I have an interest in all things physical, and everything to do with communicating concepts
+- I am currently working on projects that relate to my hobbies
+- To reach me create a dummy repo, open a new issue and use @xxxx to notify me
